@@ -4,9 +4,9 @@ Starter code for make up lab, 4640.
 
 See D2L for instructions.
 
-error 1-4.png
+![error 1-4](./error%201-4.png)
 
-error5-6.png
+![error 5-6](./error5-6.png)
 
 ## for error 1-4:
 modify the typo:
